@@ -6,3 +6,7 @@ This is a simple machine learning web application built with Streamlit that pred
 
 Enter a customer's age, and the app will predict whether they have purchased insurance.
 
+### 🔗 Link Of Model
+
+https://insurance-bought-prediction-2qunpmkusm7htqcaqbbqfk.streamlit.app/
+
